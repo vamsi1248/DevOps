@@ -6,6 +6,7 @@
 | Deployment | Shell/Ansible | Application Deployment | Shell script or Ansible playbook for web/ui deployment into web servers
 | Linux Process Management | Shell | Querying Process State | Shell scripts are written to check/update process state
 | | | Checking process id | Check Process ID to kill or terminate applications
+
 | | | Memory Check |Check Physical/Virtual Memory consumed by process 
 | | | Process Priority | Check Priority provided to process to debug application
 | Package Management | Shell/Ansible | Configuration Management | Maintain or update application configurations, versions using ansible | 
@@ -27,7 +28,7 @@
 | | Confluence | Dynamic Page Creation, Dynamic Page Updation
 | | NewRelic | Application Alerts and Monitoring Data through REST API
 | Cloud - AWS Interface | Python | Cloud Components | Boto Framework for automating/managing cloud resources like ec2,s3
-| Cloud - GCP | Python | Cloud Components | GCP SDK to automated/manage resources
+| Cloud - GCP | Python | Cloud Components | GCP SDK to automated/manage resources1
 | Automating Files and Filesystem | Python, Regular Expression | Reading, Modifying and searching text on configuration files etc | os module, watchdog API for filesystem event monitoring
 
 Credits: Thanks to my friends and colleagues :). Please contribute to this and help others.
